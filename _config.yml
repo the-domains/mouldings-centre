@@ -1,4 +1,3 @@
-layout_spectrum: 0.14152244292199612
 typography_spectrum: 0.6459362022578716
 color:
   brandStrength: 0.2480366441886872
@@ -11,4 +10,6 @@ color:
     - '#537986'
     - '#6D8B96'
     - '#B1CBD8'
+layout_spectrum: 0.14152244292199612
 name: Mouldings Centre
+title: Mouldings Centre
