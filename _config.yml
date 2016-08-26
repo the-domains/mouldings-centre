@@ -1,3 +1,4 @@
+layout_spectrum: 0.14152244292199612
 typography_spectrum: 0.6459362022578716
 color:
   brandStrength: 0.2480366441886872
@@ -5,12 +6,9 @@ color:
   saturation: 0.09510154533199966
   rhythmicContrast: 0.5743563359137625
   brandColors:
-    - '#DAE9EE'
-    - '#A1B0B3'
-    - '#537986'
-    - '#6D8B96'
-    - '#B1CBD8'
-layout_spectrum: 0.14152244292199612
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
 name: Mouldings Centre
-title: Mouldings Centre
-description: The Ultimate in Affordable Luxury for the Modern Home
